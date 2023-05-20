@@ -1,8 +1,8 @@
 ### Kangaroo0
 
-🌱 성균관대학교 전기전자공학부
+성균관대학교 전기전자공학부
    
-🌱 SSAFY 9기
+SSAFY 9기
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljw4287)](https://solved.ac/ljw4287/)
